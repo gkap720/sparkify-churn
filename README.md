@@ -1,0 +1,2 @@
+# Sparkify Churn Analysis
+In this project, I analyzed how likely users were to leave the platform "Sparkify", an imaginary music streaming platform. The data is a collection of user events performed on the platform (navigating to certain pages, playing songs and so on). The other challenge is that the dataset is quite large, necessitating the use of a distributed training platform. In this case, I chose Apache Spark.
