@@ -3,8 +3,8 @@ In this project, I analyzed how likely users were to leave the platform "Sparkif
 ## Project Structure
 The project is organized into three Jupyter notebooks:
 1. A preliminary data analysis using a small subset of the data only using pandas - [EDA.ipynb](EDA.ipynb)
-2. A conversion of the code from the first notebook into PySpark code, but still running locally - (Spark_local.ipynb)[Spark_local.ipynb]
-3. The final notebook used to perform the distributed training on an EMR cluster on AWS - (Spark_final.ipynb)[Spark_final.ipynb]
+2. A conversion of the code from the first notebook into PySpark code, but still running locally - [Spark_local.ipynb](Spark_local.ipynb)
+3. The final notebook used to perform the distributed training on an EMR cluster on AWS - [Spark_final.ipynb](Spark_final.ipynb)
 
 Follow through each notebook to get an idea of the development process or just skip to the third notebook to see the final implementation.
 
