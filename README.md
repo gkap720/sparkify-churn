@@ -2,7 +2,7 @@
 In this project, I analyzed how likely users were to leave the platform "Sparkify", an imaginary music streaming platform. The data is a collection of user events performed on the platform (navigating to certain pages, playing songs and so on). The other challenge is that the dataset is quite large, necessitating the use of a distributed training platform. In this case, I chose Apache Spark.
 ## Project Structure
 The project is organized into three Jupyter notebooks:
-1. A preliminary data analysis using a small subset of the data only using pandas - (here)[EDA.ipynb]
+1. A preliminary data analysis using a small subset of the data only using pandas - [EDA.ipynb](here)
 2. A conversion of the code from the first notebook into PySpark code, but still running locally - (here)[Spark_local.ipynb]
 3. The final notebook used to perform the distributed training on an EMR cluster on AWS - (here)[Spark_final.ipynb]
 
